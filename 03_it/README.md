@@ -48,3 +48,18 @@
 - PyTorch
 - OpenCV
 
+#### Security
+- Visual Studio
+- C, C++
+- DreamHack
+
+#### Graphics
+- Visual Studio
+- C++
+- OpenCV
+- OpenGL
+- DirectX
+- UnrealEngine
+- 홍정모 연구소
+
+
