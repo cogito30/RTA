@@ -8,10 +8,9 @@
 
 ## Basic
 1. math: 미적분학/공학수학/선형대수학/확률과 통계
-2. physics: 리처드파인만의 물리학 강의1, 2, 3
-3. algorithm with c++
-4. document, spreadsheet, presentation
-
+2. physics: 일반물리학/전자기학/역학
+3. algorithm with c++: 자료구조/알고리즘
+4. OA: document/spreadsheet/presentation
 
 ## IT
 1. 프로그래밍 언어: c, c++, java, python, javascript
